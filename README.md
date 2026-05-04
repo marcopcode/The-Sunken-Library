@@ -8,3 +8,10 @@ Here lie the volumes salvaged from galleons lost in the turbulent waters of time
 This is no mere collection; it is the precious cargo of a fleet that dared to challenge the unknown. Every scroll listed here is a lifeboat for your mind, leading it away from the vast ocean of ignorance into the reassuring bay of knowledge.
 
 COMING SOON...
+## Astral Mathematics
+
+## Maelstrom Physics
+
+## Galvanized Copper (Electronics)
+
+## Ghost Ciphers (Computer Science)
