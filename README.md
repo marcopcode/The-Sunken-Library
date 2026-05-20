@@ -55,6 +55,17 @@ This is no mere collection; it is the precious cargo of a fleet that dared to ch
 - The Linux Programming Interface, by Michael Kerrisk. No Starch Press;
 - System Programming in Linux: A Hands-On Introduction, by Stewart N. Weiss. No Starch Press;
 - The TCP/IP Guide: A Comprehensive, Illustrated Internet Protocols Reference, by Charles M. Kozierok. No Starch Press.
+- Inside the Machine: an illustrated introduction to microprocessors and computer architecture, by Jon Stokes. No Starch Press;
+- Computer Architecture, a Quantitative Approach, by John L. Hennessy, David A. Patterson. Morgan Kaufmann;
+- Computer Science From Scratch, by David Kopec. No Starch Press;
+- Computer Architecture, by Charles Fox. No Starch Press;
+- Writing a C Compiler, Nora Sandler. No Starch Press;
+- How Computers Really Work, by Matthew Justice. No Starch Press;
+- Introduction to Computer Organization, by Robert G. Plantz. No Starch Press;
+- Introduction to Computer Organization: ARM Edition, by Robert G. Plantz. No Starch Press;
+  
+  ## Corsair Literature (Reverse Engineering)
+  
 - Write Great Code, collection by Randall Hyde. No Starch Press;
 - The Art of Assembly Language, by Randall Hyde. No Starch Press;
 - The Art of ARM Assembly: 64-bit ARM Machine Organization and Programming, by Randall Hyde. No Starch Press;
