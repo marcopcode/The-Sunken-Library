@@ -40,13 +40,19 @@ This is no mere collection; it is the precious cargo of a fleet that dared to ch
 ## Galvanized Copper (Electronics)
 
 - The Art of Electronics, by Paul Horowitz, Winfield Hill. Cambridge University Press;
+- Microelectronic Circuits, by Adel S. Sedra e Kenneth C. Smith. Oxford University Press;
 - Digital Computer Electronics, by Albert Paul Malvino. McGraw-Hill Education;
 
 ## Ghost Ciphers (Computer Science)
 
 - The Art of Computer Programming, collection by Donald E. Knuth. Addison-Wesley;
+- Introduction to Algorithms, by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest e Clifford Stein. MIT Press;
+- Compilers: Principles, Techniques, and Tools, by Alfred V. Aho, Monica S. Lam, Ravi Sethi e Jeffrey D. Ullman. Pearson;
+- Structure and Interpretation of Computer Programs, by Harold Abelson e Gerald Jay Sussman. MIT Press;
+- Operating System Concepts, by Abraham Silberschatz, Peter B. Galvin e Greg Gagne. Wiley;
 - Computer Networks, by Tanenbaum, Feamster, Wetherall. Pearson;
 - Structured Computer Organization, by Andrew S. Tanenbaum. Pearson;
+- Operating System Concepts, by Abraham Silberschatz, Peter B. Galvin e Greg Gagne. Wiley
 - Modern Operating Systems, by Tanenbaum, Bos. Pearson;
 - Distributed Systems: Principles and Paradigms, by Andrew S. Tanenbaum, Maarten van Steen;
 - Operating Systems: Design and Implementation, by Tanenbaum, Woodhull. Pearson College Div;
@@ -87,7 +93,7 @@ This is no mere collection; it is the precious cargo of a fleet that dared to ch
 - Web Application Defender's Cookbook: Battling Hackers and Protecting Users, by Ryan C. Barnett, Jeremiah Grossman. Wiley;
 - The Browser Hacker's Handbook, by Wade Alcorn, Christian Frichot, Michele Orrù. Wiley;
 - The Mobile Application Hacker's Handbook (English Edition), by Dominic Chell, Tyrone Erasmus, Shaun Colley, Ollie Whitehouse. Wiley;
-- Android Hacker's Handbook, by Josuha J. Drake. Wiley;
+- Android Hacker's Handbook, by Joshua J. Drake. Wiley;
 - iOS Hacker's Handbook, by Charlie Miller. Wiley;
 - The Mac Hacker's Handbook (English Edition), by Charlie Miller, Dino Dai Zovi. Wiley;
 - The Database Hacker's Handbook: Defending Database, by David Litchfield. Wiley;
