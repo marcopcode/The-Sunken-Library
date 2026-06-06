@@ -62,6 +62,7 @@ This is no mere collection; it is the precious cargo of a fleet that dared to ch
 - System Programming in Linux: A Hands-On Introduction, by Stewart N. Weiss. No Starch Press;
 - The TCP/IP Guide: A Comprehensive, Illustrated Internet Protocols Reference, by Charles M. Kozierok. No Starch Press.
 - Inside the Machine: an illustrated introduction to microprocessors and computer architecture, by Jon Stokes. No Starch Press;
+- Computer Organization and Design, by David A. Patterson, John L. Hennessy. Morgan Kaufmann.
 - Computer Architecture, a Quantitative Approach, by John L. Hennessy, David A. Patterson. Morgan Kaufmann;
 - Computer Science From Scratch, by David Kopec. No Starch Press;
 - Computer Architecture, by Charles Fox. No Starch Press;
@@ -69,6 +70,8 @@ This is no mere collection; it is the precious cargo of a fleet that dared to ch
 - How Computers Really Work, by Matthew Justice. No Starch Press;
 - Introduction to Computer Organization, by Robert G. Plantz. No Starch Press;
 - Introduction to Computer Organization: ARM Edition, by Robert G. Plantz. No Starch Press;
+- Applied Cryptography, by Bruce Schneier. Wiley.
+- Cryptography Engineering, by Niels Ferguson, Bruce Schneier, Tadayoshi Kohno. Wiley.
   
   ## Corsair Literature (Reverse Engineering)
   
@@ -87,6 +90,7 @@ This is no mere collection; it is the precious cargo of a fleet that dared to ch
 - Rootkits: Subverting the Windows Kernel, by Greg Hoglund, Jamie Butler. Addison-Wesley Professional;
 - The Art of Software Security Assessment: Identifying And Preventing Software Vulnerabilities, by Mark Down, John McDonald, Justin Schun. Addison-Wesley Professional;
 - A Guide to Kernel Exploitation: Attacking the Core, by Enrico Perla, Massimiliano Oldani. Syngress Media Inc;
+- The Art of Memory Forensics, by Michael Hale Ligh, Andrew Case, Jamie Levy, AAron Walters. Wiley.
 - Reversing: Secrets of Reverse Engineering, by Eldad Eilam. Wiley;
 - The Shellcoder's Handbook: Discovering and Exploiting Security Holes, by Chris Anley, John Heasman, Felix Lindner, Gerardo Richarte. Wiley;
 - The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws, by Dafydd Stuttard, Marcus Pinto. Wiley;
