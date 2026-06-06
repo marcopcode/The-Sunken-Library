@@ -91,6 +91,7 @@ This is no mere collection; it is the precious cargo of a fleet that dared to ch
 - Smashing the Stack for Fun and Profit, by Aleph One. Phrack;
 - Hacking Exposed, a collection by VV. AA. McGraw-Hill Education;
 - Security Engineering, by Ross Anderson. Wiley;
+- Windows Forensics: Understand Analysis Techniques for Your Windows, by Chuck Easttom, William Butler, Jessica Phelan, Ramya Sai Bhagavatula, Sean Steuber, Karely Rodriguez, Victoria Indy Balkissoon, Zehra Naseer. Apress.
 - Rootkits: Subverting the Windows Kernel, by Greg Hoglund, Jamie Butler. Addison-Wesley Professional;
 - The Art of Software Security Assessment: Identifying And Preventing Software Vulnerabilities, by Mark Down, John McDonald, Justin Schun. Addison-Wesley Professional;
 - A Guide to Kernel Exploitation: Attacking the Core, by Enrico Perla, Massimiliano Oldani. Syngress Media Inc;
