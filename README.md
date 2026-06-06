@@ -72,6 +72,10 @@ This is no mere collection; it is the precious cargo of a fleet that dared to ch
 - Introduction to Computer Organization: ARM Edition, by Robert G. Plantz. No Starch Press;
 - Applied Cryptography, by Bruce Schneier. Wiley.
 - Cryptography Engineering, by Niels Ferguson, Bruce Schneier, Tadayoshi Kohno. Wiley.
+- Handbook of Applied Cryptography, by Alfred J. Menezes, Paul C. van Oorschot, Scott A. Vanstone. CRC Press.
+- Introduction to Modern Cryptography, by Jonathan Katz, Yehuda Lindell. CRC Press.
+- Foundations of Cryptography, Volume 1: Basic Tools, by Oded Goldreich. Cambridge University Press.
+- Foundations of Cryptography, Volume 2: Basic Applications, by Oded Goldreich. Cambridge University Press.
   
   ## Corsair Literature (Reverse Engineering)
   
