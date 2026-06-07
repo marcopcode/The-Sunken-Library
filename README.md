@@ -70,15 +70,15 @@ This is no mere collection; it is the precious cargo of a fleet that dared to ch
 - How Computers Really Work, by Matthew Justice. No Starch Press;
 - Introduction to Computer Organization, by Robert G. Plantz. No Starch Press;
 - Introduction to Computer Organization: ARM Edition, by Robert G. Plantz. No Starch Press;
+  
+  ## Corsair Literature (Reverse Engineering)
+  
 - Applied Cryptography, by Bruce Schneier. Wiley.
 - Cryptography Engineering, by Niels Ferguson, Bruce Schneier, Tadayoshi Kohno. Wiley.
 - Handbook of Applied Cryptography, by Alfred J. Menezes, Paul C. van Oorschot, Scott A. Vanstone. CRC Press.
 - Introduction to Modern Cryptography, by Jonathan Katz, Yehuda Lindell. CRC Press.
 - Foundations of Cryptography, Volume 1: Basic Tools, by Oded Goldreich. Cambridge University Press.
 - Foundations of Cryptography, Volume 2: Basic Applications, by Oded Goldreich. Cambridge University Press.
-  
-  ## Corsair Literature (Reverse Engineering)
-  
 - Write Great Code, collection by Randall Hyde. No Starch Press;
 - The Art of Assembly Language, by Randall Hyde. No Starch Press;
 - The Art of ARM Assembly: 64-bit ARM Machine Organization and Programming, by Randall Hyde. No Starch Press;
