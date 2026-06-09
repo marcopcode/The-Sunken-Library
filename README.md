@@ -16,18 +16,18 @@ Before ye dive into the wreckage, use this official compass to classify yer scro
 
 ## Astral Mathematics
 
-- Elements of Mathematics, collection by Nicolas Bourbaki. Springer.
-- Mathematics: Its Content, Methods and Meaning, collection by Kolmogorov, Aleksandrov, Lavrent'ev. Dover Pubns;
-- CRC Concise Encyclopedia of Mathematics, by Weisstein. Chapman&Hall/CRC;
-- The Princeton Companion to Mathematics, by Timothy Gowers. Princeton University Press;
-- The Princeton Companion to Applied Mathematics, by Nicholas J. Higham. Princeton University Press;
-- Mathematical Analysis for Engineers, collection by Krasnov, Kiselev, Makarenko, Shikin. Mir Publishers Moscow;
-- Differential and Integral Calculus, collection by Piskunov. Mir Publishers Moscow;
-- Kiselev's Algebra/Arithmetic, collection by A. P. Kiselev. KDP Edition;
-- Kiselev's Geometry, by Alexander Givental;
-- Handbooks of Mathematics, by Bronshtein, Semendyayev, Musiol, Mühlig. Springer;
-- Mathematics and Its History, by John Stillwell. Springer;
-- The History of Mathematics, An Introduction, by David M. Burton. McGraw-Hill Science/Engineering/Math;
+- Elements of Mathematics, collection by Nicolas Bourbaki. Springer; 📐
+- Mathematics: Its Content, Methods and Meaning, collection by Kolmogorov, Aleksandrov, Lavrent'ev. Dover Pubns; 🏫
+- CRC Concise Encyclopedia of Mathematics, by Weisstein. Chapman&Hall/CRC; 🏛️
+- The Princeton Companion to Mathematics, by Timothy Gowers. Princeton University Press; 🏛️
+- The Princeton Companion to Applied Mathematics, by Nicholas J. Higham. Princeton University Press; 🏛️
+- Mathematical Analysis for Engineers, collection by Krasnov, Kiselev, Makarenko, Shikin. Mir Publishers Moscow; 🏫
+- Differential and Integral Calculus, collection by Piskunov. Mir Publishers Moscow; 🏫
+- Kiselev's Algebra/Arithmetic, collection by A. P. Kiselev. KDP Edition; 🏫
+- Kiselev's Geometry, by Alexander Givental; 🏫
+- Handbooks of Mathematics, by Bronshtein, Semendyayev, Musiol, Mühlig. Springer; 🏛️
+- Mathematics and Its History, by John Stillwell. Springer; 🏫
+- The History of Mathematics, An Introduction, by David M. Burton. McGraw-Hill Science/Engineering/Math; 🏫
 
 ## Premonition Doctrines (Statistics)
 
