@@ -79,16 +79,16 @@ Before ye dive into the wreckage, use this official compass to classify yer scro
 - Operating Systems: Design and Implementation, by Tanenbaum, Woodhull. Pearson College Div; 🏫
 - Windows Internals, collection by Pavel Yosifovich, Alex Ionescu, Mark E. Russinovich, David A. Solomon. Microsoft Press; 🏫
 - Dive into Systems: A Gentle Introduction to Computer Systems, by Matthews, Newhall, Webb. No Starch Press; 🏫
-- The Linux Programming Interface, by Michael Kerrisk. No Starch Press; 🏫
-- System Programming in Linux: A Hands-On Introduction, by Stewart N. Weiss. No Starch Press; 🏫
+- The Linux Programming Interface, by Michael Kerrisk. No Starch Press; 🥷
+- System Programming in Linux: A Hands-On Introduction, by Stewart N. Weiss. No Starch Press; 🥷
 - [The TCP/IP Guide](http://www.tcpipguide.com/): A Comprehensive, Illustrated Internet Protocols Reference, by Charles M. Kozierok. No Starch Press; 🏛️
 - Inside the Machine: an illustrated introduction to microprocessors and computer architecture, by Jon Stokes. No Starch Press; 🏫
 - Computer Organization and Design, by David A. Patterson, John L. Hennessy. Morgan Kaufmann; 🏫
 - Computer Architecture, a Quantitative Approach, by John L. Hennessy, David A. Patterson. Morgan Kaufmann; 📐
 - Computer Science From Scratch, by David Kopec. No Starch Press; 🏫
 - Computer Architecture, by Charles Fox. No Starch Press; 🏫
-- Writing a C Compiler, Nora Sandler. No Starch Press; 🏫
-- How Computers Really Work, by Matthew Justice. No Starch Press; 🏫
+- Writing a C Compiler, Nora Sandler. No Starch Press; 🥷
+- How Computers Really Work, by Matthew Justice. No Starch Press; 🥷
 - Introduction to Computer Organization, by Robert G. Plantz. No Starch Press; 🏫
 - Introduction to Computer Organization: ARM Edition, by Robert G. Plantz. No Starch Press; 🏫
   
