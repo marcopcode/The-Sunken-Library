@@ -39,18 +39,23 @@ This is no mere collection; it is the precious cargo of a fleet that dared to ch
 
 ## Galvanized Copper (Electronics)
 
+- The Electrical Engineering Handbook, by Richard C. Dorf. CRC Press;
+- The Electronics Handbook, by Jerry C. Whitaker. CRC Press;
 - The Art of Electronics, by Paul Horowitz, Winfield Hill. Cambridge University Press;
-- Semiconductor Physics and Devices, by Donald A. Neamen. McGraw-Hill.
-- Semiconductor Device Fundamentals, by Robert F. Pierret. Addison-Wesley.
-- Physics of Semiconductor Devices, by Simon M. Sze, Kwok K. Ng. John Wiley & Sons.
-- Silicon VLSI Technology, by James D. Plummer, Michael D. Deal, Peter B. Griffin. Pearson.CMOS VLSI Design, by Neil H.E. Weste, David Money Harris. Pearson.
-- Digital Integrated Circuits, by Jan M. Rabaey, Anantha Chandrakasan, Borivoje Nikolić. Prentice Hall.
+- Signal Processing for Mobile Communications Handbook, by Mohamed Ibnkahla. CRC Press;
+- The Communications Handbook, by Jerry D. Gibson. CRC Press;
+- Semiconductor Physics and Devices, by Donald A. Neamen. McGraw-Hill;
+- Semiconductor Device Fundamentals, by Robert F. Pierret. Addison-Wesley;
+- Physics of Semiconductor Devices, by Simon M. Sze, Kwok K. Ng. John Wiley & Sons;
+- Silicon VLSI Technology, by James D. Plummer, Michael D. Deal, Peter B. Griffin. Pearson.CMOS VLSI Design, by Neil H.E. Weste, David Money Harris. Pearson;
+- Digital Integrated Circuits, by Jan M. Rabaey, Anantha Chandrakasan, Borivoje Nikolić. Prentice Hall;
 - Microelectronic Circuits, by Adel S. Sedra e Kenneth C. Smith. Oxford University Press;
 - Digital Computer Electronics, by Albert Paul Malvino. McGraw-Hill Education;
 
 ## Ghost Ciphers (Computer Science)
 
 - The Art of Computer Programming, collection by Donald E. Knuth. Addison-Wesley;
+- Computing Handbook: Computer Science and Software Engineering, by Teofilo Gonzalez, Jorge Diaz-Herrera, Allen Tucker. Chapman and Hall/CRC;
 - Introduction to Algorithms, by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest e Clifford Stein. MIT Press;
 - Compilers: Principles, Techniques, and Tools, by Alfred V. Aho, Monica S. Lam, Ravi Sethi e Jeffrey D. Ullman. Pearson;
 - Structure and Interpretation of Computer Programs, by Harold Abelson e Gerald Jay Sussman. MIT Press;
