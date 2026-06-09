@@ -94,110 +94,110 @@ Before ye dive into the wreckage, use this official compass to classify yer scro
   
   ## Corsair Literature (Reverse Engineering)
   
-- Applied Cryptography, by Bruce Schneier. Wiley.
-- Cryptography Engineering, by Niels Ferguson, Bruce Schneier, Tadayoshi Kohno. Wiley.
-- Handbook of Applied Cryptography, by Alfred J. Menezes, Paul C. van Oorschot, Scott A. Vanstone. CRC Press.
-- Introduction to Modern Cryptography, by Jonathan Katz, Yehuda Lindell. CRC Press.
-- Foundations of Cryptography, Volume 1: Basic Tools, by Oded Goldreich. Cambridge University Press.
-- Foundations of Cryptography, Volume 2: Basic Applications, by Oded Goldreich. Cambridge University Press.
-- Write Great Code, collection by Randall Hyde. No Starch Press;
-- The Art of Assembly Language, by Randall Hyde. No Starch Press;
-- The Art of ARM Assembly: 64-bit ARM Machine Organization and Programming, by Randall Hyde. No Starch Press;
-- The Art of 64-bit Assembly, collection by Randall Hyde. No Starch Press;
-- [Reverse Engineering 4 Beginners/Assembly Language 4 Beginners](https://beginners.re), by Dennis Yurichev;
-- The Secret Life of Programs, by Jonathan E. Steinhart. No Starch Press;
-- CPython Internals: Your Guide to the Python 3 Interpreter, by Anthony Shaw. RealPython(dot)com;
-- .NET IL Assembler, by Serge Lidin. Apress;
-- Assembly Language for x86 Processors, by Kip R. Irvine. Pearson;
-- Smashing the Stack for Fun and Profit, by Aleph One. Phrack;
-- Hacking Exposed, a collection by VV. AA. McGraw-Hill Education;
-- Security Engineering, by Ross Anderson. Wiley;
-- Windows Forensics: Understand Analysis Techniques for Your Windows, by Chuck Easttom, William Butler, Jessica Phelan, Ramya Sai Bhagavatula, Sean Steuber, Karely Rodriguez, Victoria Indy Balkissoon, Zehra Naseer. Apress.
-- Rootkits: Subverting the Windows Kernel, by Greg Hoglund, Jamie Butler. Addison-Wesley Professional;
-- The Art of Software Security Assessment: Identifying And Preventing Software Vulnerabilities, by Mark Down, John McDonald, Justin Schun. Addison-Wesley Professional;
-- A Guide to Kernel Exploitation: Attacking the Core, by Enrico Perla, Massimiliano Oldani. Syngress Media Inc;
-- The Art of Memory Forensics, by Michael Hale Ligh, Andrew Case, Jamie Levy, AAron Walters. Wiley.
-- Reversing: Secrets of Reverse Engineering, by Eldad Eilam. Wiley;
-- The Shellcoder's Handbook: Discovering and Exploiting Security Holes, by Chris Anley, John Heasman, Felix Lindner, Gerardo Richarte. Wiley;
-- The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws, by Dafydd Stuttard, Marcus Pinto. Wiley;
-- Web Application Defender's Cookbook: Battling Hackers and Protecting Users, by Ryan C. Barnett, Jeremiah Grossman. Wiley;
-- The Browser Hacker's Handbook, by Wade Alcorn, Christian Frichot, Michele Orrù. Wiley;
-- The Mobile Application Hacker's Handbook (English Edition), by Dominic Chell, Tyrone Erasmus, Shaun Colley, Ollie Whitehouse. Wiley;
-- Android Hacker's Handbook, by Joshua J. Drake. Wiley;
-- iOS Hacker's Handbook, by Charlie Miller. Wiley;
-- The Mac Hacker's Handbook (English Edition), by Charlie Miller, Dino Dai Zovi. Wiley;
-- The Database Hacker's Handbook: Defending Database, by David Litchfield. Wiley;
-- The Oracle Hacker's Handbook: Hacking and Defending Oracle, by David Litchfield. Wiley;
-- The Antivirus Hacker's Handbook, by Joxean Koret, Elias Bachalaany. Wiley;
-- Foundations of Cybersecurity/Information Security, by Jason Andress. No Starch Press;
-- Evasion Engineering, by Dennis Chow and Michael LaSalvia. No Starch Press;
-- The Spacecraft Hacker's Handbook, by Andrzej Olchawa and Milenko Starcik. No Starch Press;
-- Red Teaming AI, by Philip A. Dursey. No Starch Press;
-- Practical AI Security, by Harriet Farlow. No Starch Press;
-- Dissecting the Dark Web, by Lindsay Kaye. No Starch Press;
-- Practical Purple Teaming, by Alfie Champion. No Starch Press;
-- Red Team Engineering, by Casey Erdmann. No Starch Press;
-- Heavy Wizardry 101, by David Martínez Oliveira, aka Pico. No Starch Press;
-- From Day Zero to Zero Day, by Eugene Lim. No Starch Press;
-- Microcontroller Exploits, by Travis Goodspeed. No Starch Press;
-- Serious Cryptography, by Jean-Philippe Aumasson. No Starch Press;
-- Cybersecurity Tabletop Exercises, by Robert Lelewski and John Hollenberger. No Starch Press;
-- The Art of Mac Malware, by Patrick Wardle. No Starch Press;
-- Black Hat Bash, by Dolev Farhi, Nick Aleks. No Starch Press;
-- Windows Security Internals, by James Forshaw. No Starch Press;
-- Linux Basics for Hackers, by OccupyTheWeb. No Starch Press;
-- Evasive Malware, by Kyle Cucci. No Starch Press;
-- The Android Malware Handbook, by Qian Han, Salvador Mandujano, Sebastian Porst, V.S. Subrahmanian, Sai Deep Tetali, and Yanhai Xiong. No Starch Press;
-- Evading EDR, by Matt Hand. No Starch Press;
-- Black Hat GraphQL, by Dolev Farhi, Nick Aleks. No Starch Press;
-- Hacks, Leaks, and Revelations, by Micah Lee. No Starch Press;
-- Metasploit, by David Kennedy, Mati Aharoni, Devon Kearns, Jim O’Gorman, and Daniel Graham. No Starch Press;
-- The Art of Cyberwarfare, by Jon DiMaggio. No Starch Press;
-- Designing Secure Software, by Loren Kohnfelder. No Starch Press;
-- Practical Doomsday, by Michal Zalewski. No Starch Press;
-- The Art of Mac Malware, by Patrick Wardle. No Starch Press;
-- Bug Bounty Bootcamp, by Vickie Li. No Starch Press;
-- Ethical Hacking, by Daniel G. Graham. No Starch Press;
-- Crypto Dictionary, by Jean-Philippe Aumasson. No Starch Press;
-- Black Hat Python, by Justin Seitz and Tim Arnold. No Starch Press;
-- Practical IoT Hacking, by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, Beau Woods. No Starch Press;
-- Cyberjutsu, by Ben McCarty. No Starch Press;
-- Practical Social Engineering, by Joe Gray. No Starch Press;
-- Practical Binary Analysis, by Dennis Andriesse. No Starch Press;
-- Malware Data Science, by Joshua Saxe with Hillary Sanders. No Starch Press;
-- The Hardware Hacking Handbook, by Jasper van Woudenberg and Colin O'Flynn. No Starch Press;
-- Pentesting Azure Applications, by Matt Burrough. No Starch Press;
-- Black Hat Go, by Tom Steele, Chris Patten, and Dan Kottmann. No Starch Press;
-- Real-World Bug Hunting, by Peter Yaworski. No Starch Press;
-- Gray Hat C#, by Brandon Perry. No Starch Press;
-- Attacking Network Protocols, by James Forshaw. No Starch Press;
-- Practical Forensic Imaging, by Bruce Nikkel. No Starch Press;
-- Car Hacker's Handbook, by Craig Smith. No Starch Press;
-- Rootkits and Bootkits, by Alex Matrosov, Eugene Rodionov, and Sergey Bratus. No Starch Press;
-- Game Hacking, by Nick Cano. No Starch Press;
-- iOS Application Security, by David Thiel. No Starch Press;
-- Android Security Internals, by Nikolay Elenkov. No Starch Press;
-- Penetration Testing, by Georgia Weidman. No Starch Press;
-- Tangled Web, by Michal Zalewski. No Starch Press;
-- Practical Malware Analysis, by Michael Sikorski and Andrew Honig. No Starch Press;
-- Gray Hat Python, by Justin Seitz. No Starch Press;
-- Hacking: The Art of Exploitation, by Jon Erickson. No Starch Press;
-- Silence on the Wire, by Michal Zalewski. No Starch Press;
-- IDA Pro Book, by Chris Eagle. No Starch Press;
-- A Bug Hunter's Diary, by Tobias Klein. No Starch Press;
-- The Practice of Network Security Monitoring, by Richard Bejtlich. No Starch Press;
-- Practical Packet Analysis, by Chris Sanders. No Starch Press;
-- Web Security for Developers, by Malcolm McDonald. No Starch Press;
-- Practical Vulnerability Management, by Andrew Magnusson. No Starch Press;
-- How Cybersecurity Really Works, by Sam Grubb. No Starch Press;
-- Cybersecurity for Small Networks, by Seth Enoka. No Starch Press;
-- Practical Linux Forensics, by Bruce Nikkel. No Starch Press;
-- Locksport, by Jos Weyers, Matt Burrough, Walter Belgers, BandEAtoZ, and Nigel K. Tolley. No Starch Press;
-- Hacking APIs, by Corey Ball. No Starch Press;
-- Codebreaking, by Elonka Dunin and Klaus Schmeh. No Starch Press;
-- Engineering Secure Devices, by Dominik Merli. No Starch Press;
-- Data Engineering for Cybersecurity, by James Bonifield. No Starch Press;
-- The Book of PF, by Peter N. M. Hansteen. No Starch Press;
-- The Ghidra Book, by Kara Nance and Chris Eagle. No Starch Press;
-- The Art of Invisibility/Deception/intrusion, a collection by Kevin Mitnick. Wiley;
-- The Hacker Playbook, a collection by Peter Kim.
+- Applied Cryptography, by Bruce Schneier. Wiley. 🏛️
+- Cryptography Engineering, by Niels Ferguson, Bruce Schneier, Tadayoshi Kohno. Wiley. 🏫
+- Handbook of Applied Cryptography, by Alfred J. Menezes, Paul C. van Oorschot, Scott A. Vanstone. CRC Press. 🏛️
+- Introduction to Modern Cryptography, by Jonathan Katz, Yehuda Lindell. CRC Press. 📐
+- Foundations of Cryptography, Volume 1: Basic Tools, by Oded Goldreich. Cambridge University Press. 📐
+- Foundations of Cryptography, Volume 2: Basic Applications, by Oded Goldreich. Cambridge University Press. 📐
+- Write Great Code, collection by Randall Hyde. No Starch Press; 🏫
+- The Art of Assembly Language, by Randall Hyde. No Starch Press; 🏫
+- The Art of ARM Assembly: 64-bit ARM Machine Organization and Programming, by Randall Hyde. No Starch Press; 🏫
+- The Art of 64-bit Assembly, collection by Randall Hyde. No Starch Press; 🏫
+- [Reverse Engineering 4 Beginners/Assembly Language 4 Beginners](https://beginners.re), by Dennis Yurichev; 🥷
+- The Secret Life of Programs, by Jonathan E. Steinhart. No Starch Press; 🏫
+- CPython Internals: Your Guide to the Python 3 Interpreter, by Anthony Shaw. RealPython(dot)com; 🥷
+- .NET IL Assembler, by Serge Lidin. Apress; 🥷
+- Assembly Language for x86 Processors, by Kip R. Irvine. Pearson; 🏫
+- Smashing the Stack for Fun and Profit, by Aleph One. Phrack; 🥷
+- Hacking Exposed, a collection by VV. AA. McGraw-Hill Education; 🏛️
+- Security Engineering, by Ross Anderson. Wiley; 🏛️
+- Windows Forensics: Understand Analysis Techniques for Your Windows, by Chuck Easttom, William Butler, Jessica Phelan, Ramya Sai Bhagavatula, Sean Steuber, Karely Rodriguez, Victoria Indy Balkissoon, Zehra Naseer. Apress. 🥷
+- Rootkits: Subverting the Windows Kernel, by Greg Hoglund, Jamie Butler. Addison-Wesley Professional; 🥷
+- The Art of Software Security Assessment: Identifying And Preventing Software Vulnerabilities, by Mark Down, John McDonald, Justin Schun. Addison-Wesley Professional; 🏛️
+- A Guide to Kernel Exploitation: Attacking the Core, by Enrico Perla, Massimiliano Oldani. Syngress Media Inc; 🥷
+- The Art of Memory Forensics, by Michael Hale Ligh, Andrew Case, Jamie Levy, AAron Walters. Wiley. 🥷
+- Reversing: Secrets of Reverse Engineering, by Eldad Eilam. Wiley; 🏫
+- The Shellcoder's Handbook: Discovering and Exploiting Security Holes, by Chris Anley, John Heasman, Felix Lindner, Gerardo Richarte. Wiley; 🥷
+- The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws, by Dafydd Stuttard, Marcus Pinto. Wiley; 🏛️
+- Web Application Defender's Cookbook: Battling Hackers and Protecting Users, by Ryan C. Barnett, Jeremiah Grossman. Wiley; 🥷
+- The Browser Hacker's Handbook, by Wade Alcorn, Christian Frichot, Michele Orrù. Wiley; 🥷
+- The Mobile Application Hacker's Handbook (English Edition), by Dominic Chell, Tyrone Erasmus, Shaun Colley, Ollie Whitehouse. Wiley; 🥷
+- Android Hacker's Handbook, by Joshua J. Drake. Wiley; 🥷
+- iOS Hacker's Handbook, by Charlie Miller. Wiley; 🥷
+- The Mac Hacker's Handbook (English Edition), by Charlie Miller, Dino Dai Zovi. Wiley; 🥷
+- The Database Hacker's Handbook: Defending Database, by David Litchfield. Wiley; 🥷
+- The Oracle Hacker's Handbook: Hacking and Defending Oracle, by David Litchfield. Wiley; 🥷
+- The Antivirus Hacker's Handbook, by Joxean Koret, Elias Bachalaany. Wiley; 🥷
+- Foundations of Cybersecurity/Information Security, by Jason Andress. No Starch Press; 🏫
+- Evasion Engineering, by Dennis Chow and Michael LaSalvia. No Starch Press; 🥷
+- The Spacecraft Hacker's Handbook, by Andrzej Olchawa and Milenko Starcik. No Starch Press; 🥷
+- Red Teaming AI, by Philip A. Dursey. No Starch Press; 🥷
+- Practical AI Security, by Harriet Farlow. No Starch Press; 🥷
+- Dissecting the Dark Web, by Lindsay Kaye. No Starch Press; 🥷
+- Practical Purple Teaming, by Alfie Champion. No Starch Press; 🥷
+- Red Team Engineering, by Casey Erdmann. No Starch Press; 🥷
+- Heavy Wizardry 101, by David Martínez Oliveira, aka Pico. No Starch Press; 🥷
+- From Day Zero to Zero Day, by Eugene Lim. No Starch Press; 🥷
+- Microcontroller Exploits, by Travis Goodspeed. No Starch Press; 🥷
+- Serious Cryptography, by Jean-Philippe Aumasson. No Starch Press; 🏫
+- Cybersecurity Tabletop Exercises, by Robert Lelewski and John Hollenberger. No Starch Press; 🥷
+- The Art of Mac Malware, by Patrick Wardle. No Starch Press; 🥷
+- Black Hat Bash, by Dolev Farhi, Nick Aleks. No Starch Press; 🥷
+- Windows Security Internals, by James Forshaw. No Starch Press; 🏫
+- Linux Basics for Hackers, by OccupyTheWeb. No Starch Press; 🥷
+- Evasive Malware, by Kyle Cucci. No Starch Press; 🥷
+- The Android Malware Handbook, by Qian Han, Salvador Mandujano, Sebastian Porst, V.S. Subrahmanian, Sai Deep Tetali, and Yanhai Xiong. No Starch Press; 🥷
+- Evading EDR, by Matt Hand. No Starch Press; 🥷
+- Black Hat GraphQL, by Dolev Farhi, Nick Aleks. No Starch Press; 🥷
+- Hacks, Leaks, and Revelations, by Micah Lee. No Starch Press; 🥷
+- Metasploit, by David Kennedy, Mati Aharoni, Devon Kearns, Jim O’Gorman, and Daniel Graham. No Starch Press; 🥷
+- The Art of Cyberwarfare, by Jon DiMaggio. No Starch Press; 🏫
+- Designing Secure Software, by Loren Kohnfelder. No Starch Press; 🏫
+- Practical Doomsday, by Michal Zalewski. No Starch Press; 🏫
+- The Art of Mac Malware, by Patrick Wardle. No Starch Press; 🥷
+- Bug Bounty Bootcamp, by Vickie Li. No Starch Press; 🥷
+- Ethical Hacking, by Daniel G. Graham. No Starch Press; 🥷
+- Crypto Dictionary, by Jean-Philippe Aumasson. No Starch Press; 🏛️
+- Black Hat Python, by Justin Seitz and Tim Arnold. No Starch Press; 🥷
+- Practical IoT Hacking, by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, Beau Woods. No Starch Press; 🥷
+- Cyberjutsu, by Ben McCarty. No Starch Press; 🏫
+- Practical Social Engineering, by Joe Gray. No Starch Press; 🥷
+- Practical Binary Analysis, by Dennis Andriesse. No Starch Press; 🥷
+- Malware Data Science, by Joshua Saxe with Hillary Sanders. No Starch Press; 🥷
+- The Hardware Hacking Handbook, by Jasper van Woudenberg and Colin O'Flynn. No Starch Press; 🥷
+- Pentesting Azure Applications, by Matt Burrough. No Starch Press; 🥷
+- Black Hat Go, by Tom Steele, Chris Patten, and Dan Kottmann. No Starch Press; 🥷
+- Real-World Bug Hunting, by Peter Yaworski. No Starch Press; 🥷
+- Gray Hat C#, by Brandon Perry. No Starch Press; 🥷
+- Attacking Network Protocols, by James Forshaw. No Starch Press; 🥷
+- Practical Forensic Imaging, by Bruce Nikkel. No Starch Press; 🥷
+- Car Hacker's Handbook, by Craig Smith. No Starch Press; 🥷
+- Rootkits and Bootkits, by Alex Matrosov, Eugene Rodionov, and Sergey Bratus. No Starch Press; 🥷
+- Game Hacking, by Nick Cano. No Starch Press; 🥷
+- iOS Application Security, by David Thiel. No Starch Press; 🥷
+- Android Security Internals, by Nikolay Elenkov. No Starch Press; 🏫
+- Penetration Testing, by Georgia Weidman. No Starch Press; 🥷
+- Tangled Web, by Michal Zalewski. No Starch Press; 🏫
+- Practical Malware Analysis, by Michael Sikorski and Andrew Honig. No Starch Press; 🥷
+- Gray Hat Python, by Justin Seitz. No Starch Press; 🥷
+- Hacking: The Art of Exploitation, by Jon Erickson. No Starch Press; 🥷
+- Silence on the Wire, by Michal Zalewski. No Starch Press; 🏫
+- IDA Pro Book, by Chris Eagle. No Starch Press; 🥷
+- A Bug Hunter's Diary, by Tobias Klein. No Starch Press; 🥷
+- The Practice of Network Security Monitoring, by Richard Bejtlich. No Starch Press; 🏫
+- Practical Packet Analysis, by Chris Sanders. No Starch Press; 🥷
+- Web Security for Developers, by Malcolm McDonald. No Starch Press; 🏫
+- Practical Vulnerability Management, by Andrew Magnusson. No Starch Press; 🏫
+- How Cybersecurity Really Works, by Sam Grubb. No Starch Press; 🏫
+- Cybersecurity for Small Networks, by Seth Enoka. No Starch Press; 🏫
+- Practical Linux Forensics, by Bruce Nikkel. No Starch Press; 🥷
+- Locksport, by Jos Weyers, Matt Burrough, Walter Belgers, BandEAtoZ, and Nigel K. Tolley. No Starch Press; 🥷
+- Hacking APIs, by Corey Ball. No Starch Press; 🥷
+- Codebreaking, by Elonka Dunin and Klaus Schmeh. No Starch Press; 🏫
+- Engineering Secure Devices, by Dominik Merli. No Starch Press; 🏫
+- Data Engineering for Cybersecurity, by James Bonifield. No Starch Press; 🥷
+- The Book of PF, by Peter N. M. Hansteen. No Starch Press; 🥷
+- The Ghidra Book, by Kara Nance and Chris Eagle. No Starch Press; 🥷
+- The Art of Invisibility/Deception/intrusion, a collection by Kevin Mitnick. Wiley; 🏫
+- The Hacker Playbook, a collection by Peter Kim. 🥷
