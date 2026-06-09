@@ -5,7 +5,14 @@
 Welcome to the wreckage, seeker of truth.  
 Here lie the volumes salvaged from galleons lost in the turbulent waters of time. While others chase fool's gold, i scour the seabed for the formulas, algorithms, and laws that time tried to swallow whole.  
 
-This is no mere collection; it is the precious cargo of a fleet that dared to challenge the unknown. Every scroll listed here is a lifeboat for your mind, leading it away from the vast ocean of ignorance into the reassuring bay of knowledge.
+This is no mere collection; it is the precious cargo of a fleet that dared to challenge the unknown. Every scroll listed here is a lifeboat for your mind, leading it away from the vast ocean of ignorance into the reassuring bay of knowledge.  
+
+Before ye dive into the wreckage, use this official compass to classify yer scrolls. This legend shall tell ye exactly what kind of beast ye are facin' before ye open a book:  
+
+- 🏛️ Encyclopedic & Consultation (The Leviathans of the Deep): Monumental treasuries of absolute knowledge. Ye do not read 'em from bow to stern, lest ye drown in the depths. Ye fly to these grand beacons only when the fog rolls in and ye need the ultimate scientific law.  
+- 🏫 Didactic & Fundamentals (The Royal Academy Charts): Standard navigational maps designed to teach a green horn the ropes. They offer smooth waters, clear explanations, and guided drills to build yer sea legs from scratch.  
+- 📐 Theoretical & Formula-Heavy (The Navigator's Calculus): Grim scrolls packed with heavy mathematics, abstract proofs, and unforgiving equations. Approach with a sharp quill and a steady mind, for this is the pure, raw science of the cosmos.  
+- 🥷 Practical & Laboratory (The Shipwright's Workbench): Where the actual vessels are built and tested! These guides require ye to sit at yer terminal or workbench with tools drawn. No heavy mathematical anchors here—ye will be writing raw code, building circuits, and engineering real systems from the inside out to see how they truly behave in the wild.
 
 ## Astral Mathematics
 
