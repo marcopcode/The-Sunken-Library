@@ -31,18 +31,18 @@ Before ye dive into the wreckage, use this official compass to classify yer scro
 
 ## Premonition Doctrines (Statistics)
 
-- All of Statistics: A Concise Course in Statistical Inference, by Larry Wasserman. Springer;
-- Statistical Inference, by Casella, Berger.  CRC Press;
-- Kendall's Advanced Theory of Statistics, collection by Alan Stuart. Wiley&Sons;
+- All of Statistics: A Concise Course in Statistical Inference, by Larry Wasserman. Springer; 🏫
+- Statistical Inference, by Casella, Berger.  CRC Press; 📐
+- Kendall's Advanced Theory of Statistics, collection by Alan Stuart. Wiley&Sons; 🏛️
 
 ## Maelstrom Physics
 
-- [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/), by Feynman, Leighton, Sands. Hachette Book Group USA;
-- Course on Theoretical Physics, collection by Lev Landau, Evgeny Lifshitz, Vladimir Berestetskii, Lev Pitaevskii. Addison-Wesley;
-- The Theoretical Minimum, collection by Leonard Susskind, George Hrabovsky, Art Friedman. Basic Books;
-- Handbook of Physics, by Benensonm, Harris, Stocker, Lutz. Springer;
-- Handbuch Der Phisik, collection by Flügge. Springer-Verlag;
-- Classical Electrodynamics, by John David Jackson. Wiley&Sons;
+- [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/), by Feynman, Leighton, Sands. Hachette Book Group USA; 🏫
+- Course on Theoretical Physics, collection by Lev Landau, Evgeny Lifshitz, Vladimir Berestetskii, Lev Pitaevskii. Addison-Wesley; 📐
+- The Theoretical Minimum, collection by Leonard Susskind, George Hrabovsky, Art Friedman. Basic Books; 🏫
+- Handbook of Physics, by Benensonm, Harris, Stocker, Lutz. Springer; 🏛️
+- Handbuch Der Phisik, collection by Flügge. Springer-Verlag; 🏛️
+- Classical Electrodynamics, by John David Jackson. Wiley&Sons; 📐
 
 ## Galvanized Copper (Electronics)
 
