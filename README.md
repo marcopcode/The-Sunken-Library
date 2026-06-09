@@ -46,22 +46,22 @@ Before ye dive into the wreckage, use this official compass to classify yer scro
 
 ## Galvanized Copper (Electronics)
 
-- The Electrical Engineering Handbook, by Richard C. Dorf. CRC Press;
-- Engineering Circuit Analysis, by William H. Hayt, Jack E. Kemmerly, Steven M. Durbin. McGraw-Hill;
-- Linear and Nonlinear Circuits, by Leon O. Chua, Charles A. Desoer, Ernest S. Kuh. McGraw-Hill;
-- The Electronics Handbook, by Jerry C. Whitaker. CRC Press;
-- The Art of Electronics, by Paul Horowitz, Winfield Hill. Cambridge University Press;
-- Signals and Systems, by Alan V. Oppenheim, Alan S. Willsky. Prentice Hall;
-- Signal Processing for Mobile Communications Handbook, by Mohamed Ibnkahla. CRC Press;
-- The Communications Handbook, by Jerry D. Gibson. CRC Press;
-- Semiconductor Physics and Devices, by Donald A. Neamen. McGraw-Hill;
-- Semiconductor Device Fundamentals, by Robert F. Pierret. Addison-Wesley;
-- Physics of Semiconductor Devices, by Simon M. Sze, Kwok K. Ng. John Wiley & Sons;
-- [Silicon VLSI Technology](https://plummergriffinbook.stanford.edu/previous_book), by James D. Plummer, Michael D. Deal, Peter B. Griffin. Pearson;
-- CMOS VLSI Design, by Neil H.E. Weste, David Money Harris. Pearson;
-- Digital Integrated Circuits, by Jan M. Rabaey, Anantha Chandrakasan, Borivoje Nikolić. Prentice Hall;
-- Microelectronic Circuits, by Adel S. Sedra e Kenneth C. Smith. Oxford University Press;
-- Digital Computer Electronics, by Albert Paul Malvino. McGraw-Hill Education;
+- The Electrical Engineering Handbook, by Richard C. Dorf. CRC Press; 🏛️
+- Engineering Circuit Analysis, by William H. Hayt, Jack E. Kemmerly, Steven M. Durbin. McGraw-Hill; 🏫
+- Linear and Nonlinear Circuits, by Leon O. Chua, Charles A. Desoer, Ernest S. Kuh. McGraw-Hill; 📐
+- The Electronics Handbook, by Jerry C. Whitaker. CRC Press; 🏛️
+- The Art of Electronics, by Paul Horowitz, Winfield Hill. Cambridge University Press; 🥷
+- Signals and Systems, by Alan V. Oppenheim, Alan S. Willsky. Prentice Hall; 🏫
+- Signal Processing for Mobile Communications Handbook, by Mohamed Ibnkahla. CRC Press; 🏛️
+- The Communications Handbook, by Jerry D. Gibson. CRC Press; 🏛️
+- Semiconductor Physics and Devices, by Donald A. Neamen. McGraw-Hill; 🏫
+- Semiconductor Device Fundamentals, by Robert F. Pierret. Addison-Wesley; 🏫
+- Physics of Semiconductor Devices, by Simon M. Sze, Kwok K. Ng. John Wiley & Sons; 📐
+- [Silicon VLSI Technology](https://plummergriffinbook.stanford.edu/previous_book), by James D. Plummer, Michael D. Deal, Peter B. Griffin. Pearson; 🏫
+- CMOS VLSI Design, by Neil H.E. Weste, David Money Harris. Pearson; 📐
+- Digital Integrated Circuits, by Jan M. Rabaey, Anantha Chandrakasan, Borivoje Nikolić. Prentice Hall; 📐
+- Microelectronic Circuits, by Adel S. Sedra e Kenneth C. Smith. Oxford University Press; 🏫
+- Digital Computer Electronics, by Albert Paul Malvino. McGraw-Hill Education; 🏫
 
 ## Ghost Ciphers (Computer Science)
 
