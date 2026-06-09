@@ -65,32 +65,32 @@ Before ye dive into the wreckage, use this official compass to classify yer scro
 
 ## Ghost Ciphers (Computer Science)
 
-- The Art of Computer Programming, collection by Donald E. Knuth. Addison-Wesley;
-- Computing Handbook: Computer Science and Software Engineering, by Teofilo Gonzalez, Jorge Diaz-Herrera, Allen Tucker. Chapman and Hall/CRC;
-- Introduction to Algorithms, by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest e Clifford Stein. MIT Press;
-- Compilers: Principles, Techniques, and Tools, by Alfred V. Aho, Monica S. Lam, Ravi Sethi e Jeffrey D. Ullman. Pearson;
-- Structure and Interpretation of Computer Programs, by Harold Abelson e Gerald Jay Sussman. MIT Press;
-- Operating System Concepts, by Abraham Silberschatz, Peter B. Galvin e Greg Gagne. Wiley;
-- Computer Networks, by Tanenbaum, Feamster, Wetherall. Pearson;
-- Structured Computer Organization, by Andrew S. Tanenbaum. Pearson;
-- Operating System Concepts, by Abraham Silberschatz, Peter B. Galvin e Greg Gagne. Wiley;
-- Modern Operating Systems, by Tanenbaum, Bos. Pearson;
-- Distributed Systems: Principles and Paradigms, by Andrew S. Tanenbaum, Maarten van Steen;
-- Operating Systems: Design and Implementation, by Tanenbaum, Woodhull. Pearson College Div;
-- Windows Internals, collection by Pavel Yosifovich, Alex Ionescu, Mark E. Russinovich, David A. Solomon. Microsoft Press;
-- Dive into Systems: A Gentle Introduction to Computer Systems, by Matthews, Newhall, Webb. No Starch Press;
-- The Linux Programming Interface, by Michael Kerrisk. No Starch Press;
-- System Programming in Linux: A Hands-On Introduction, by Stewart N. Weiss. No Starch Press;
-- [The TCP/IP Guide](http://www.tcpipguide.com/): A Comprehensive, Illustrated Internet Protocols Reference, by Charles M. Kozierok. No Starch Press;
-- Inside the Machine: an illustrated introduction to microprocessors and computer architecture, by Jon Stokes. No Starch Press;
-- Computer Organization and Design, by David A. Patterson, John L. Hennessy. Morgan Kaufmann;
-- Computer Architecture, a Quantitative Approach, by John L. Hennessy, David A. Patterson. Morgan Kaufmann;
-- Computer Science From Scratch, by David Kopec. No Starch Press;
-- Computer Architecture, by Charles Fox. No Starch Press;
-- Writing a C Compiler, Nora Sandler. No Starch Press;
-- How Computers Really Work, by Matthew Justice. No Starch Press;
-- Introduction to Computer Organization, by Robert G. Plantz. No Starch Press;
-- Introduction to Computer Organization: ARM Edition, by Robert G. Plantz. No Starch Press;
+- The Art of Computer Programming, collection by Donald E. Knuth. Addison-Wesley; 📐
+- Computing Handbook: Computer Science and Software Engineering, by Teofilo Gonzalez, Jorge Diaz-Herrera, Allen Tucker. Chapman and Hall/CRC; 🏛️
+- Introduction to Algorithms, by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest e Clifford Stein. MIT Press; 📐
+- Compilers: Principles, Techniques, and Tools, by Alfred V. Aho, Monica S. Lam, Ravi Sethi e Jeffrey D. Ullman. Pearson; 📐
+- Structure and Interpretation of Computer Programs, by Harold Abelson e Gerald Jay Sussman. MIT Press; 🏫
+- Operating System Concepts, by Abraham Silberschatz, Peter B. Galvin e Greg Gagne. Wiley; 🏫
+- Computer Networks, by Tanenbaum, Feamster, Wetherall. Pearson; 🏫
+- Structured Computer Organization, by Andrew S. Tanenbaum. Pearson; 🏫
+- Operating System Concepts, by Abraham Silberschatz, Peter B. Galvin e Greg Gagne. Wiley; 🏫
+- Modern Operating Systems, by Tanenbaum, Bos. Pearson; 🏫
+- Distributed Systems: Principles and Paradigms, by Andrew S. Tanenbaum, Maarten van Steen; 🏫
+- Operating Systems: Design and Implementation, by Tanenbaum, Woodhull. Pearson College Div; 🏫
+- Windows Internals, collection by Pavel Yosifovich, Alex Ionescu, Mark E. Russinovich, David A. Solomon. Microsoft Press; 🏫
+- Dive into Systems: A Gentle Introduction to Computer Systems, by Matthews, Newhall, Webb. No Starch Press; 🏫
+- The Linux Programming Interface, by Michael Kerrisk. No Starch Press; 🏫
+- System Programming in Linux: A Hands-On Introduction, by Stewart N. Weiss. No Starch Press; 🏫
+- [The TCP/IP Guide](http://www.tcpipguide.com/): A Comprehensive, Illustrated Internet Protocols Reference, by Charles M. Kozierok. No Starch Press; 🏛️
+- Inside the Machine: an illustrated introduction to microprocessors and computer architecture, by Jon Stokes. No Starch Press; 🏫
+- Computer Organization and Design, by David A. Patterson, John L. Hennessy. Morgan Kaufmann; 🏫
+- Computer Architecture, a Quantitative Approach, by John L. Hennessy, David A. Patterson. Morgan Kaufmann; 📐
+- Computer Science From Scratch, by David Kopec. No Starch Press; 🏫
+- Computer Architecture, by Charles Fox. No Starch Press; 🏫
+- Writing a C Compiler, Nora Sandler. No Starch Press; 🏫
+- How Computers Really Work, by Matthew Justice. No Starch Press; 🏫
+- Introduction to Computer Organization, by Robert G. Plantz. No Starch Press; 🏫
+- Introduction to Computer Organization: ARM Edition, by Robert G. Plantz. No Starch Press; 🏫
   
   ## Corsair Literature (Reverse Engineering)
   
