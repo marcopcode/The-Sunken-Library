@@ -40,6 +40,11 @@ This is no mere collection; it is the precious cargo of a fleet that dared to ch
 ## Galvanized Copper (Electronics)
 
 - The Art of Electronics, by Paul Horowitz, Winfield Hill. Cambridge University Press;
+- Semiconductor Physics and Devices, by Donald A. Neamen. McGraw-Hill.
+- Semiconductor Device Fundamentals, by Robert F. Pierret. Addison-Wesley.
+- Physics of Semiconductor Devices, by Simon M. Sze, Kwok K. Ng. John Wiley & Sons.
+- Silicon VLSI Technology, by James D. Plummer, Michael D. Deal, Peter B. Griffin. Pearson.CMOS VLSI Design, by Neil H.E. Weste, David Money Harris. Pearson.
+- Digital Integrated Circuits, by Jan M. Rabaey, Anantha Chandrakasan, Borivoje Nikolić. Prentice Hall.
 - Microelectronic Circuits, by Adel S. Sedra e Kenneth C. Smith. Oxford University Press;
 - Digital Computer Electronics, by Albert Paul Malvino. McGraw-Hill Education;
 
