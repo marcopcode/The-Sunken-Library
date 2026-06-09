@@ -47,7 +47,7 @@ This is no mere collection; it is the precious cargo of a fleet that dared to ch
 - Semiconductor Physics and Devices, by Donald A. Neamen. McGraw-Hill;
 - Semiconductor Device Fundamentals, by Robert F. Pierret. Addison-Wesley;
 - Physics of Semiconductor Devices, by Simon M. Sze, Kwok K. Ng. John Wiley & Sons;
-- Silicon VLSI Technology, by James D. Plummer, Michael D. Deal, Peter B. Griffin. Pearson.CMOS VLSI Design, by Neil H.E. Weste, David Money Harris. Pearson;
+- [Silicon VLSI Technology](https://plummergriffinbook.stanford.edu/previous_book), by James D. Plummer, Michael D. Deal, Peter B. Griffin. Pearson.CMOS VLSI Design, by Neil H.E. Weste, David Money Harris. Pearson;
 - Digital Integrated Circuits, by Jan M. Rabaey, Anantha Chandrakasan, Borivoje Nikolić. Prentice Hall;
 - Microelectronic Circuits, by Adel S. Sedra e Kenneth C. Smith. Oxford University Press;
 - Digital Computer Electronics, by Albert Paul Malvino. McGraw-Hill Education;
@@ -62,7 +62,7 @@ This is no mere collection; it is the precious cargo of a fleet that dared to ch
 - Operating System Concepts, by Abraham Silberschatz, Peter B. Galvin e Greg Gagne. Wiley;
 - Computer Networks, by Tanenbaum, Feamster, Wetherall. Pearson;
 - Structured Computer Organization, by Andrew S. Tanenbaum. Pearson;
-- Operating System Concepts, by Abraham Silberschatz, Peter B. Galvin e Greg Gagne. Wiley
+- Operating System Concepts, by Abraham Silberschatz, Peter B. Galvin e Greg Gagne. Wiley;
 - Modern Operating Systems, by Tanenbaum, Bos. Pearson;
 - Distributed Systems: Principles and Paradigms, by Andrew S. Tanenbaum, Maarten van Steen;
 - Operating Systems: Design and Implementation, by Tanenbaum, Woodhull. Pearson College Div;
@@ -70,9 +70,9 @@ This is no mere collection; it is the precious cargo of a fleet that dared to ch
 - Dive into Systems: A Gentle Introduction to Computer Systems, by Matthews, Newhall, Webb. No Starch Press;
 - The Linux Programming Interface, by Michael Kerrisk. No Starch Press;
 - System Programming in Linux: A Hands-On Introduction, by Stewart N. Weiss. No Starch Press;
-- The TCP/IP Guide: A Comprehensive, Illustrated Internet Protocols Reference, by Charles M. Kozierok. No Starch Press.
+- [The TCP/IP Guide](http://www.tcpipguide.com/): A Comprehensive, Illustrated Internet Protocols Reference, by Charles M. Kozierok. No Starch Press;
 - Inside the Machine: an illustrated introduction to microprocessors and computer architecture, by Jon Stokes. No Starch Press;
-- Computer Organization and Design, by David A. Patterson, John L. Hennessy. Morgan Kaufmann.
+- Computer Organization and Design, by David A. Patterson, John L. Hennessy. Morgan Kaufmann;
 - Computer Architecture, a Quantitative Approach, by John L. Hennessy, David A. Patterson. Morgan Kaufmann;
 - Computer Science From Scratch, by David Kopec. No Starch Press;
 - Computer Architecture, by Charles Fox. No Starch Press;
