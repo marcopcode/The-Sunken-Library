@@ -204,10 +204,10 @@ Before ye dive into the wreckage, use this official compass to classify yer scro
 - The Ghidra Book, by Kara Nance and Chris Eagle. No Starch Press; 🥷
 - The Art of Invisibility/Deception/intrusion, a collection by Kevin Mitnick. Wiley; 🏫
 - The Hacker Playbook, a collection by Peter Kim. 🥷
-- A Beginner's Guide To Web Application Penetration Testing, by Ali Abdollahi. Wiley Tech Today; 🥷
-- The Active Defender: Immersion in the Offensive Security Mindset, by Catherine J. Ullman. Wiley Tech Today; 🥷
-- x86 Software Reverse-Engineering, Cracking, and Counter-Measures, by Stephanie and Christopher Domas. Wiley Tech Today; 🥷
-- Securing Cloud Containers: Building and Running Secure Cloud-Native Applications, by Sina Manavi, Abbas Kudrati, Muhammad Aizuddin Zali. Wiley Tech Today 🥷
-- The Reign of Botnets: Defending Against Abuses, Bots and Fraud on the Internet, by David Senecal. Wiley Tech Today; 🥷
-- x64 Assembly Language Step-by-Step: Programming with Linux, by Jeff Duntemann. Wiley Tech Today; 🥷
-- Securing the AWS Cloud: A Guide for Learning to Secure AWS Infrastructure, by Brandon Carroll. Wiley Tech Today; 🥷
+- A Beginner's Guide To Web Application Penetration Testing, by Ali Abdollahi. Wiley Tech Today; 🏫
+- The Active Defender: Immersion in the Offensive Security Mindset, by Catherine J. Ullman. Wiley Tech Today; 🏫
+- x86 Software Reverse-Engineering, Cracking, and Counter-Measures, by Stephanie and Christopher Domas. Wiley Tech Today; 🏫
+- Securing Cloud Containers: Building and Running Secure Cloud-Native Applications, by Sina Manavi, Abbas Kudrati, Muhammad Aizuddin Zali. Wiley Tech Today 🏫
+- The Reign of Botnets: Defending Against Abuses, Bots and Fraud on the Internet, by David Senecal. Wiley Tech Today; 🏫
+- x64 Assembly Language Step-by-Step: Programming with Linux, by Jeff Duntemann. Wiley Tech Today; 🏫
+- Securing the AWS Cloud: A Guide for Learning to Secure AWS Infrastructure, by Brandon Carroll. Wiley Tech Today; 🏫
