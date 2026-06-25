@@ -81,6 +81,7 @@ Before ye dive into the wreckage, use this official compass to classify yer scro
 - Dive into Systems: A Gentle Introduction to Computer Systems, by Matthews, Newhall, Webb. No Starch Press; 🏫
 - The Linux Programming Interface, by Michael Kerrisk. No Starch Press; 🥷
 - System Programming in Linux: A Hands-On Introduction, by Stewart N. Weiss. No Starch Press; 🥷
+- TCP/IP Illustrated, a collection by W. Richard Stevens. Addison Wesley professional computing series; 🏫
 - [The TCP/IP Guide](http://www.tcpipguide.com/): A Comprehensive, Illustrated Internet Protocols Reference, by Charles M. Kozierok. No Starch Press; 🏛️
 - Inside the Machine: an illustrated introduction to microprocessors and computer architecture, by Jon Stokes. No Starch Press; 🏫
 - Computer Organization and Design, by David A. Patterson, John L. Hennessy. Morgan Kaufmann; 🏫
@@ -100,6 +101,8 @@ Before ye dive into the wreckage, use this official compass to classify yer scro
 - Introduction to Modern Cryptography, by Jonathan Katz, Yehuda Lindell. CRC Press. 📐
 - Foundations of Cryptography, Volume 1: Basic Tools, by Oded Goldreich. Cambridge University Press. 📐
 - Foundations of Cryptography, Volume 2: Basic Applications, by Oded Goldreich. Cambridge University Press. 📐
+- OSINT Techniques: resources for uncovering online information, by Michael Bazzell; 🥷
+- Extreme Privacy: what it takes to disappear, by Michael Bazzell; 🥷
 - Write Great Code, collection by Randall Hyde. No Starch Press; 🏫
 - The Art of Assembly Language, by Randall Hyde. No Starch Press; 🏫
 - The Art of ARM Assembly: 64-bit ARM Machine Organization and Programming, by Randall Hyde. No Starch Press; 🏫
