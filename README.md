@@ -210,4 +210,4 @@ Before ye dive into the wreckage, use this official compass to classify yer scro
 - Securing Cloud Containers: Building and Running Secure Cloud-Native Applications, by Sina Manavi, Abbas Kudrati, Muhammad Aizuddin Zali. Wiley Tech Today 🥷
 - The Reign of Botnets: Defending Against Abuses, Bots and Fraud on the Internet, by David Senecal. Wiley Tech Today; 🥷
 - x64 Assembly Language Step-by-Step: Programming with Linux, by Jeff Duntemann. Wiley Tech Today; 🥷
-- Securing the AWS Cloud: A Guide for Learning to Secure AWS Infrastructure, by Brandon Carroll. Wiley Tech Guide; 🥷
+- Securing the AWS Cloud: A Guide for Learning to Secure AWS Infrastructure, by Brandon Carroll. Wiley Tech Today; 🥷
